@@ -44,7 +44,7 @@ The system is composed of the following modules:
 
 Below is a snapshot of the project's user interface:
 
-![User Interface](user_interface.png)
+![User Interface](user_interface.jpg)
 
 **🚀 Future Enhancements**
 
